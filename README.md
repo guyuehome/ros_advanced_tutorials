@@ -5,3 +5,10 @@
 3. [《ROS人机交互软件的界面开发》](https://class.guyuehome.com/detail/p_5ec490a8d7bd7_b7ucPqUs/6) ：ROS_Qt/robot_hmi
 4. [《ROS-Industrial应用原理与源码解析》](https://class.guyuehome.com/detail/p_5ecccbfc64888_kwlvlzPK/6) ：ROS_Industrial
 
+
+
+**更多内容，欢迎关注古月居**
+
+网站：https://www.guyuehome.com/
+
+微信公众号：古月居
