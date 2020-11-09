@@ -6,7 +6,8 @@
 4. [《ROS Rviz组件开发方法》](https://class.guyuehome.com/detail/p_5edf2d27a1942_foy4nqci/6) ：ROS_Qt/class3
 5. [《ROS-Industrial应用原理与源码解析》](https://class.guyuehome.com/detail/p_5ecccbfc64888_kwlvlzPK/6) ：ROS_Industrial
 6. [《MATLAB与ROS联合快速开发控制算法》](https://class.guyuehome.com/detail/p_5f39e38fe4b0dd4d97492948/6) ：ROS_Matlab
-7. [《如何实现ROS与Webots联合仿真》](https://class.guyuehome.com) ：ROS_Webots
+7. [《如何实现ROS与Webots联合仿真》](https://class.guyuehome.com/detail/p_5f586de6e4b0b5edf0a12687/6) ：ROS_Webots
+8. [《如何在MoveIt中集成自定义运动规划算法》](https://class.guyuehome.com/detail/p_5fa4b3d9e4b0e81f36cd0c79/6) ：moveit_motion_planner
 
 
 
